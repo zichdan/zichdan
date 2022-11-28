@@ -10,7 +10,7 @@ I'm a Software Engineer, Content Creator and BAck End Developer. I'm passionate 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 -🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa School of Software Engineering Class of 2022.
 
--😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
+- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Sceintist (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing zichdan1999@gmail.com.
 
