@@ -19,7 +19,7 @@ I'm a Software Engineer and a Backend Web Developer. I'm passionate about sharin
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Sceintist (Intern or Junior level).
-- 📫 You can [view my resume](file:///C:/Users/HP/Downloads/OKORIE%20DANIEL%20EZICHI_R%C3%A9sum%C3%A9.pdf) and contact me by emailing zichdan1999@gmail.com.
+- 📫 You can [file:///C:/Users/HP/Downloads/OKORIE%20DANIEL%20EZICHI_R%C3%A9sum%C3%A9.pdf](file:///C:/Users/HP/Downloads/OKORIE%20DANIEL%20EZICHI_R%C3%A9sum%C3%A9.pdf) and contact me by emailing zichdan1999@gmail.com.
 
 ---
 
