@@ -9,7 +9,7 @@
 
 
 
-I'm a Software Engineer, Content Creator and BAck End Developer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, build useful [open-source projects](github.com/zichdan), and build technical communities
+I'm a Software Engineer and a Backend Web Developer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, build useful [open-source projects]([github.com/zichdan](https://github.com/zichdan?tab=repositories)), and building technical communities
 
 **Here's a quick summary about me**:
 
@@ -19,7 +19,7 @@ I'm a Software Engineer, Content Creator and BAck End Developer. I'm passionate 
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Sceintist (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing zichdan1999@gmail.com.
+- 📫 You can [view my resume](file:///C:/Users/HP/Downloads/OKORIE%20DANIEL%20EZICHI_R%C3%A9sum%C3%A9.pdf) and contact me by emailing zichdan1999@gmail.com.
 
 ---
 
