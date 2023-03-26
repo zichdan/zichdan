@@ -19,7 +19,7 @@ I'm a Software Engineer and a Backend Web Developer. I'm passionate about sharin
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Sceintist (Intern or Junior level).
-- 📫 You can view [my resume](https://drive.google.com/file/d/1BKKZD4Kp_c86AN85F0NNux7fkdb9TNt6/view?usp=share_link) and contact me by emailing zichdan1999@gmail.com.
+- 📫 You can view [my resume](https://drive.google.com/file/d/1dIFGMcRuSY5EfcD6AkmxhyrS0pF6njZb/view?usp=share_link) and contact me by emailing zichdan1999@gmail.com.
 
 ---
 
