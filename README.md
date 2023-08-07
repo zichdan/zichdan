@@ -9,16 +9,16 @@
 
 
 
-I'm a Software Engineer and a Backend Web Developer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, build useful [open-source projects]([github.com/zichdan](https://github.com/zichdan?tab=repositories)), and building technical communities
+I'm a Backend Developer and a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, build useful [open-source projects]([github.com/zichdan](https://github.com/zichdan?tab=repositories)), and building technical communities
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
--🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa School of Software Engineering Class of 2022.
+- 😊 Pronouns: Dev
+- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+-🌱 I’m proficient with Python, Django & Flask, while practicing Frontend Technologies such as HTML, CSS & BOOTSTRAP, JS, Technical Writing, DSA and Open Source Contribution from experience gained at AltSchool Africa School of Software Engineering Class.
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Software Engineer, Back End Engineer, Data Sceintist (Intern or Junior level).
+- 💼 Job interests: Back-End Engineering Roles, Software Engineering Roles, Full-Stack Roles, Data Sceintist (Intern or Junior level).
 - 📫 You can view [my resume](https://drive.google.com/file/d/1dIFGMcRuSY5EfcD6AkmxhyrS0pF6njZb/view?usp=share_link) and contact me by emailing zichdan1999@gmail.com.
 
 ---
