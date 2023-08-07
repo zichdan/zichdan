@@ -15,7 +15,7 @@ I'm a Backend Developer and a Software Engineer. I'm passionate about sharing kn
 
 - 😊 Pronouns: Dev
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
--🌱 I’m proficient with Python, Django & Flask, while practicing Frontend Technologies such as HTML, CSS & BOOTSTRAP, JS, Technical Writing, DSA and Open Source Contribution from experience gained at AltSchool Africa School of Software Engineering Class.
+- 🌱 I’m proficient with Python, Django & Flask, while practicing Frontend Technologies such as HTML, CSS & BOOTSTRAP, JS, Technical Writing, DSA and Open Source Contribution from experience gained at AltSchool Africa School of Software Engineering Class.
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Back-End Engineering Roles, Software Engineering Roles, Full-Stack Roles, Data Sceintist (Intern or Junior level).
