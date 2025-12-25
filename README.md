@@ -1,27 +1,64 @@
-# Hello there;  Welcome 👋🏾
+<div align="center">
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Website Badge](https://img.shields.io/badge/-zichdan.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://zichdan.hashnode.dev/)](https://zichdan.hashnode.dev/)[![Twitter Badge](https://img.shields.io/badge/-@Zichdan_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zichdan_)](https://twitter.com/Zichdan_)   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Daniel%20Ezichi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Specialist&descAlignY=55&descAlign=50" alt="Daniel Ezichi Header" />
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-daniel-ezichi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-ezichi/)](https://www.linkedin.com/in/daniel-ezichi/)  -->
- 
+  <br />
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-ezichi/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Zichdan_)
+  [![Blog](https://img.shields.io/badge/Hashnode-Read_My_Articles-2962FF?style=for-the-badge&logo=hashnode)](https://zichdan.hashnode.dev/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:zichdan1999@gmail.com)
 
-
-
-
-I'm a Backend Developer and a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, build useful [open-source projects]([github.com/zichdan](https://github.com/zichdan?tab=repositories)), and building technical communities
-
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: Dev
-- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m proficient with Python, Django & Flask, while practicing Frontend Technologies such as HTML, CSS & BOOTSTRAP, JS, Technical Writing, DSA and Open Source Contribution from experience gained at AltSchool Africa School of Software Engineering Class.
-
-- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Back-End Engineering Roles, Software Engineering Roles, Full-Stack Roles, Data Sceintist (Intern or Junior level).
-- 📫 You can view [my resume](https://drive.google.com/file/d/1dIFGMcRuSY5EfcD6AkmxhyrS0pF6njZb/view?usp=share_link) and contact me by emailing zichdan1999@gmail.com.
+</div>
 
 ---
 
-| <img align="center" src="https://github.com/zichdan" alt="Zichdan's GitHub stats" /> | <img align="center" src="https://github.com/zichdan" alt="Zichdan's GitHub stats" /> |
-| ------------- | ------------- |
+### 👨🏾‍💻 Professional Summary
+
+I am a **Software Engineer** specializing in **Backend Development** and **API Architecture**. With a strong foundation in Python and a commitment to clean code, I build scalable systems that solve real-world business problems.
+
+I am an alumnus of the **AltSchool Africa School of Software Engineering** and an active contributor to the technical community through open-source development and technical writing.
+
+- 🔭 **Currently working on:** Building robust RESTful APIs and optimizing database queries.
+- 🤝 **Open to:** Freelance contracts, Backend Engineering roles, and Technical Writing opportunities.
+- 💬 **Ask me about:** Python, Django, Flask, System Design, and API Documentation.
+- 📄 **Resume:** [View My Professional CV](https://drive.google.com/file/d/1dIFGMcRuSY5EfcD6AkmxhyrS0pF6njZb/view?usp=share_link)
+
+---
+
+### 🛠 Technical Arsenal
+
+<div align="center">
+
+| Backend Core | Frameworks & Libraries | Frontend & Tools |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/zichdan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zichdan&show_icons=true&theme=midnight-purple&line_height=30&hide_border=true&count_private=true" alt="Zichdan's GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/zichdan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zichdan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Zichdan's Top Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><i>Let's build something amazing together.</i></p>
+  <a href="https://twitter.com/Zichdan_">
+    <img src="https://img.shields.io/twitter/follow/Zichdan_?style=social" alt="twitter">
+  </a>
+</div>
