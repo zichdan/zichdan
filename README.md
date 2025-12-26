@@ -1,106 +1,70 @@
-# Hello, I’m Daniel Ezichi 👋🏾
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Okorie%20Daniel%20Ezichi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Entrepreneur%20|%20Tech%20Innovator&descAlignY=55&descAlign=50" alt="Okorie Daniel Header" />
+</div>
 
-**Founder | Backend Engineer | Software Engineer**
+<div align="center">
 
-I am a mission-driven backend engineer and startup founder building scalable, secure, and impact-focused software systems. I specialize in designing backend architectures, APIs, and data-driven platforms that solve real-world problems at scale.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Ezichi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ezichi)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Fashionistar-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fashionistar.net)
+  [![Twitter](https://img.shields.io/badge/Twitter-@Zichdan__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zichdan_)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zichdan1999@gmail.com)
 
-I am the **Founder of Fashionistar**, an AI-powered fashion e-commerce platform transforming how Africans access custom-fit clothing through intelligent body measurement technology and modern payment infrastructure.
-
----
-
-## 🌍 Professional Overview
-
-- Backend Engineer with **3+ years of hands-on experience**
-- Strong background in **Python, Django, Django REST Framework, FastAPI, and Flask**
-- Founder & Lead Backend Developer at **Fashionistar Clothings**
-- Experienced in **API design, database optimization, cloud deployment, and Web3 integrations**
-- Passionate about building products that merge **technology, innovation, and social impact**
+</div>
 
 ---
 
-## 🛠 Core Technical Expertise
+### 👨🏾‍💻 About Me
 
-**Backend & APIs**
-- Python, Django, Django REST Framework, FastAPI, Flask  
-- RESTful APIs, authentication, authorization, background tasks
+I am a mission-driven **Backend Engineer** and **Entrepreneur** with **3+ years of experience** building robust, scalable web applications. I specialize in blending innovation with impact, utilizing **Python (Django/FastAPI)**, **Cloud Architecture**, and **Web3** technologies to solve real-world problems.
 
-**Databases**
-- PostgreSQL, MySQL, MongoDB Atlas  
-- Query optimization, relational modeling, data integrity
+Currently, I am the Founder & Lead Backend Developer at **Fashionistar Clothings**, where I architected Nigeria’s first AI-powered fashion e-commerce platform integrating mobile body measurements and Solana USDC payments.
 
-**DevOps & Cloud**
-- Git, GitHub, Docker  
-- AWS, DigitalOcean, Heroku  
-- CI/CD fundamentals, production deployments
-
-**Frontend Collaboration**
-- HTML, CSS, JavaScript  
-- Bootstrap, Tailwind CSS  
-- Effective collaboration with frontend teams
-
-**Web3 & Emerging Tech**
-- Solana blockchain integrations  
-- USDC payment infrastructure  
-- Secure crypto-based transaction flows
+*   🔭 **I’m currently working on:** Scaling AI-driven e-commerce solutions.
+*   🤝 **I’m open to:** Backend Engineering roles, Contract work, and Startup partnerships.
+*   ⚡ **Core Superpower:** transforming complex business logic into efficient, secure RESTful APIs.
 
 ---
 
-## 🚀 Flagship Projects
+### 🛠️ Technical Arsenal
 
-### **Fashionistar AI Platform** *(Founder & Lead Backend Engineer)*
-AI-powered fashion e-commerce platform enabling precise body measurements, custom-fit clothing, and seamless tailor–client collaboration.
-
-- Backend built with Django REST Framework & PostgreSQL  
-- Integrated mobile body measurement (Mirrorsize GetMeasured API)  
-- Solana USDC payment support  
-- Full production deployment and platform architecture  
-
-🔗 https://fashionistar.net
+| **Languages** | **Frameworks** | **Databases** | **DevOps & Cloud** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| | ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### **Forex Compass AI Agent**
-An educational AI agent designed to provide structured, responsible forex learning support.
+### 🚀 Featured Projects
 
-- Built with Django, Celery, and hybrid RAG architecture  
-- Focused on safety, learning, and decision support  
-- Integrated into the Telex.im platform  
+#### 👗 [Fashionistar AI Platform](https://fashionistar.net)
+*An AI-powered fashion e-commerce ecosystem.*
+*   **Innovation:** Integrated **Mirrorsize GetMeasured API** for automated body measurements and **Solana USDC** for crypto payments.
+*   **Stack:** Python, Django REST Framework, PostgreSQL, React JS, Solana Pay.
+*   **Role:** Founder & Lead Backend Engineer.
 
-🔗 https://github.com/zichdan/hng-stage-3-agent
+#### 📈 [Forex Compass AI Agent](https://github.com/zichdan)
+*A resilient AI mentor for educational forex trading advice.*
+*   **Innovation:** Built a hybrid **RAG system** to provide safe trading insights on the Telex.im platform.
+*   **Stack:** Django, Celery, Vector DBs, LLM Integration.
 
----
-
-### **Country & Currency Data API**
-A high-performance REST API for global country and currency data.
-
-- Asynchronous data fetching  
-- Database caching strategies  
-- Dynamic summary generation  
-- Built with Django REST Framework  
-
-🔗 https://github.com/zichdan/hng-stage-2-countries
+#### 🌍 [Country & Currency Data API](https://github.com/zichdan)
+*High-performance global data service.*
+*   **Innovation:** Features asynchronous fetching, advanced caching, and dynamic image generation.
+*   **Stack:** Django REST Framework, Redis, AsyncIO.
 
 ---
 
-## 🤝 Collaboration & Opportunities
+### 📊 GitHub Stats
 
-I’m open to:
-- Backend & Software Engineering roles  
-- Startup partnerships and technical co-founder discussions  
-- Open-source collaboration  
-- Hackathons, accelerators, and innovation programs  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zichdan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zichdan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="150" alt="languages graph" />
+</div>
 
-I enjoy working with teams focused on **building meaningful, scalable solutions**.
+<br />
 
----
-
-## 📫 Contact & Professional Links
-
-- 📧 Email: **zichdan1999@gmail.com**  
-- 🌐 Portfolio: **https://fashionistar.net**  
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-ezichi  
-- 🐦 Twitter/X: https://twitter.com/Zichdan_  
-
----
-
-*“Build systems that scale. Solve problems that matter.”*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zichdan&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
