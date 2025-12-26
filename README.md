@@ -1,64 +1,144 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Daniel%20Ezichi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Specialist&descAlignY=55&descAlign=50" alt="Daniel Ezichi Header" />
-
-  <br />
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-ezichi/)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Zichdan_)
-  [![Blog](https://img.shields.io/badge/Hashnode-Read_My_Articles-2962FF?style=for-the-badge&logo=hashnode)](https://zichdan.hashnode.dev/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:zichdan1999@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=260&section=header&text=Okorie%20Daniel%20Ezichi&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Senior%20Backend%20Engineer%20%7C%20Product%20Builder&descAlignY=55&descAlign=50" />
 </div>
-
----
-
-### 👨🏾‍💻 Professional Summary
-
-I am a **Software Engineer** specializing in **Backend Development** and **API Architecture**. With a strong foundation in Python and a commitment to clean code, I build scalable systems that solve real-world business problems.
-
-I am an alumnus of the **AltSchool Africa School of Software Engineering** and an active contributor to the technical community through open-source development and technical writing.
-
-- 🔭 **Currently working on:** Building robust RESTful APIs and optimizing database queries.
-- 🤝 **Open to:** Freelance contracts, Backend Engineering roles, and Technical Writing opportunities.
-- 💬 **Ask me about:** Python, Django, Flask, System Design, and API Documentation.
-- 📄 **Resume:** [View My Professional CV](https://drive.google.com/file/d/1dIFGMcRuSY5EfcD6AkmxhyrS0pF6njZb/view?usp=share_link)
-
----
-
-### 🛠 Technical Arsenal
 
 <div align="center">
 
-| Backend Core | Frameworks & Libraries | Frontend & Tools |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-Fashionistar-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fashionistar.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Ezichi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ezichi/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Zichdan__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zichdan_)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zichdan1999@gmail.com)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 👋🏾 About Me
+
+I am a **Founder–Engineer and Senior Backend Developer** with **3+ years of experience** architecting **secure, scalable, production-grade systems**.
+
+I build software where **engineering meets business execution** — from **AI-powered platforms** to **fintech and Web3-enabled payment systems**. My work focuses on **shipping real products**, not demos.
+
+I am the **Founder & Lead Backend Engineer at Fashionistar**, an AI-powered fashion e-commerce platform solving body measurement accuracy, tailor–client workflow, and payment friction across Africa using modern backend architecture and Solana USDC payments.
+
+---
+
+## 🧠 What I Specialize In
+
+- Designing **robust backend architectures** for real-world products  
+- Building **scalable Django & REST APIs** used in production  
+- Integrating **AI systems and third-party APIs**  
+- Implementing **secure payment, wallet, and ledger systems**  
+- Translating **business problems into deployable software systems**  
+- Working effectively as both **Founder** and **Senior Backend Engineer**
+
+---
+
+## 🏗️ Flagship Product
+
+### 👗 **Fashionistar Clothings**
+**Founder & Lead Backend Engineer**
+
+An **AI-powered fashion e-commerce platform** enabling:
+
+- Accurate AI-based body measurements (Mirrorsize GetMeasured API)
+- Custom-fit clothing at scale
+- Seamless tailor–client collaboration
+- Secure **Solana USDC payments**
+- Reduced sizing errors and product returns
+
+**Tech Stack:**  
+Python • Django REST Framework • PostgreSQL • AI API Integration • Solana • Docker
+
+🌐 https://fashionistar.net
+
+---
+
+## 🚀 Selected Engineering Work
+
+### 📈 **Forex Compass AI Agent**
+An educational AI agent providing structured forex learning support.
+
+- Built with Django, Celery, and hybrid RAG architecture
+- Integrated into the Telex.im platform
+- Designed for safety, performance, and scalability
+
+🔗 https://github.com/zichdan/hng-stage-3-agent
+
+---
+
+### 🌍 **Country & Currency Data API**
+A high-performance REST API for global country and currency data.
+
+- Asynchronous data fetching
+- Database caching strategies
+- Clean, production-ready API design
+
+🔗 https://github.com/zichdan/hng-stage-2-countries
+
+---
+
+## 🛠️ Technical Stack
+
+**Backend & APIs**
+- Python
+- Django & Django REST Framework
+- FastAPI, Flask
+- RESTful API design
+- Authentication & authorization
+- Synchronous & asynchronous ORM operations
+
+**Databases**
+- PostgreSQL
+- MySQL
+- MongoDB Atlas
+
+**DevOps & Infrastructure**
+- Git & GitHub
+- Docker
+- AWS, DigitalOcean, Heroku
+- Production deployment & optimization
+
+**Web3 & Payments**
+- Solana blockchain
+- USDC payment flows
+- Secure transaction verification
+
+**Frontend (Working Knowledge)**
+- HTML, CSS
+- Bootstrap, Tailwind CSS
+- JavaScript
+
+---
+
+## 🌍 Experience & Credibility
+
+- **Founder & Lead Backend Engineer** — Fashionistar Clothings  
+- **Backend Intern (Remote, USA)** — Klout Machine Inc.  
+- **AltSchool Africa** — Backend Engineering  
+- **Power Learn Project (PLP)** — Software Development  
+
+Experienced in **remote collaboration**, **NDAs**, and **production systems**.
+
+---
+
+## 🤝 Open To
+
+- Senior Backend Engineering roles  
+- Contract & freelance backend work  
+- Startup partnerships & technical co-founder roles  
+- Hackathons, accelerators, and innovation programs  
+- Open-source collaboration  
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/zichdan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zichdan&show_icons=true&theme=midnight-purple&line_height=30&hide_border=true&count_private=true" alt="Zichdan's GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/zichdan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zichdan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Zichdan's Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=zichdan&show_icons=true&hide_border=true&theme=react&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zichdan&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=58A6FF" height="150" />
 </div>
 
 ---
 
-<div align="center">
-  <p><i>Let's build something amazing together.</i></p>
-  <a href="https://twitter.com/Zichdan_">
-    <img src="https://img.shields.io/twitter/follow/Zichdan_?style=social" alt="twitter">
-  </a>
-</div>
+> *I build systems that scale, products that ship, and technology that creates measurable impact.*
