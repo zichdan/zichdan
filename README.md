@@ -106,7 +106,7 @@ A high-performance REST API for global country and currency data.
 - Secure transaction verification
 
 **Frontend (Working Knowledge)**
-- HTML, CSS
+- Next JS
 - Bootstrap, Tailwind CSS
 - JavaScript
 
