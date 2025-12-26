@@ -50,7 +50,8 @@ An **AI-powered fashion e-commerce platform** enabling:
 **Tech Stack:**  
 Python • Django REST Framework • PostgreSQL • AI API Integration • Solana • Docker
 
-🌐 https://fashionistar.net
+🌐 **[Fashionistar Clothings](https://fashionistar.net)**,
+
 
 ---
 
@@ -63,7 +64,7 @@ An educational AI agent providing structured forex learning support.
 - Integrated into the Telex.im platform
 - Designed for safety, performance, and scalability
 
-🔗 https://github.com/zichdan/hng-stage-3-agent
+🔗 [Forex Compass AI Agent](https://github.com/zichdan/hng-stage-3-agent)
 
 ---
 
@@ -74,7 +75,7 @@ A high-performance REST API for global country and currency data.
 - Database caching strategies
 - Clean, production-ready API design
 
-🔗 https://github.com/zichdan/hng-stage-2-countries
+🔗 [Country & Currency Data API](https://github.com/zichdan/hng-stage-2-countries)
 
 ---
 
