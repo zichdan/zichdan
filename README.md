@@ -130,7 +130,7 @@ Experienced in **remote collaboration**, **NDAs**, and **production systems**.
 - Contract & freelance backend work  
 - Startup partnerships & technical co-founder roles  
 - Hackathons, accelerators, and innovation programs  
-- Open-source collaboration  
+- Open-source collaboration
 
 ---
 
